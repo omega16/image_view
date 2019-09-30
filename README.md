@@ -1,15 +1,20 @@
-#Simple Image Viewer
+Simple Image Viewer
 
 Project to learn the tcl/tk and Tkinter bindings .
 
-Packages needed : 
--Pillow
--Tkinter (and tcl/tk)
+Packages needed :
+
+Pillow
+
+Tkinter (and tcl/tk)
 
 Use: 
--Just run main.py 
--Select the file menu 
--Select "Open folder" and select a folder with images. 
+
+Just run main.py 
+
+Select the file menu 
+
+Select "Open folder" and select a folder with images. 
 
 Change zoom min/max/ratio using Preferences menu.
 
